@@ -16,7 +16,7 @@
 }
 
 header {
-    background-image: url(./imagens/bg-mobile.png);
+    background-image: url(./imagens/bg-mobile-png.png);
     background-size: cover;
     height: 8.375rem;
 
@@ -101,4 +101,15 @@ margin-bottom: 1rem;
     color: var(--white);
 
 }
+
+.login > p {
+    color: var(--gray-600);
+}
+
+.login > p a {
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+@media
 
